@@ -1,0 +1,3398 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MagOne 1.5\n"
+"POT-Creation-Date: 2016-06-22 22:03+0700\n"
+"PO-Revision-Date: 2016-02-19 10:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "Back Home"
+msgstr ""
+
+#: attachment.php:17 attachment.php:18 includes/lib/lib-article.php:746
+#: singular.php:36 singular.php:37
+#, php-format
+msgid "%s 's Author avatar"
+msgstr ""
+
+#: attachment.php:89 includes/lib/lib-article.php:784
+#: includes/widgets/widgets-recent-comments.php:34
+#: singular-meta-item-date.php:9
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: attachment.php:166 singular.php:173
+msgid "PAGES"
+msgstr ""
+
+#: attachment.php:199 singular.php:320
+msgid "AUTHOR"
+msgstr ""
+
+#: comments.php:4
+msgid "COMMENTS"
+msgstr ""
+
+#: footer-deprecated.php:26
+msgid "Footer Logo"
+msgstr ""
+
+#: footer-deprecated.php:105
+msgid "Email Address"
+msgstr ""
+
+#: footer-deprecated.php:108 includes/ajax/ajax-social-counter.php:10
+msgid "Subscribe"
+msgstr ""
+
+#: header-main-menu.php:6
+msgid "sticky-menu-logo"
+msgstr ""
+
+#: header-menu-toggle-button.php:5 header-menu-toggle-button.php:12
+msgid "MENU"
+msgstr ""
+
+#: header-search-toggle-button.php:4
+msgid "SEARCH"
+msgstr ""
+
+#: header-top-menu.php:6
+msgid "TOP MENU"
+msgstr ""
+
+#: header-woocommerce.php:9
+msgid "CART"
+msgstr ""
+
+#: includes/ajax/ajax-social-counter.php:4
+#: includes/ajax/ajax-social-counter.php:6
+#: includes/ajax/ajax-social-counter.php:7
+#: includes/ajax/ajax-social-counter.php:8
+#: includes/ajax/ajax-social-counter.php:9
+msgid "Followers"
+msgstr ""
+
+#: includes/ajax/ajax-social-counter.php:4
+#: includes/ajax/ajax-social-counter.php:6
+#: includes/ajax/ajax-social-counter.php:7
+#: includes/ajax/ajax-social-counter.php:8
+#: includes/ajax/ajax-social-counter.php:9
+msgid "Follow"
+msgstr ""
+
+#: includes/ajax/ajax-social-counter.php:5
+msgid "Likes"
+msgstr ""
+
+#: includes/ajax/ajax-social-counter.php:5
+msgid "Like"
+msgstr ""
+
+#: includes/ajax/ajax-social-counter.php:10
+msgid "Subscribers"
+msgstr ""
+
+#: includes/ajax/ajax-social-counter.php:14
+msgid "Connections"
+msgstr ""
+
+#: includes/ajax/ajax-social-counter.php:14
+msgid "Connect"
+msgstr ""
+
+#: includes/includables/includables-disqus-comments.php:3
+msgid "DISQUS:"
+msgstr ""
+
+#: includes/includables/includables-facebook-comments.php:3
+msgid "FACEBOOK:"
+msgstr ""
+
+#: includes/includables/includables-share-buttons.php:3
+msgid "SHARE:"
+msgstr ""
+
+#: includes/includables/includables-share-buttons.php:20
+msgid "Twitter"
+msgstr ""
+
+#: includes/includables/includables-share-buttons.php:24
+msgid "Facebook"
+msgstr ""
+
+#: includes/includables/includables-share-buttons.php:28
+msgid "Google"
+msgstr ""
+
+#: includes/includables/includables-share-buttons.php:32
+msgid "Pinterest"
+msgstr ""
+
+#: includes/includables/includables-wordpress-comments.php:19
+msgid "Require password to view comments"
+msgstr ""
+
+#: includes/includables/includables-wordpress-comments.php:35
+#: includes/includables/includables-wordpress-comments.php:40
+msgid "comment-avatar"
+msgstr ""
+
+#: includes/includables/includables-wordpress-comments.php:66
+msgid "<span>Reply</span> <i class=\"fa fa-mail-forward\"></i>"
+msgstr ""
+
+#: includes/includables/includables-wordpress-comments.php:83
+msgid "WORDPRESS:"
+msgstr ""
+
+#: includes/includables/includables-wordpress-comments.php:98
+msgid "Comments are closed"
+msgstr ""
+
+#: includes/includables/includables-wordpress-comments.php:109
+msgid "Comment navigation"
+msgstr ""
+
+#: includes/includables/includables-wordpress-comments.php:110
+msgid "Older Comments"
+msgstr ""
+
+#: includes/includables/includables-wordpress-comments.php:111
+msgid "Newer Comments"
+msgstr ""
+
+#: includes/lib/lib-article.php:7 includes/setup/setup-shortcodes.php:172
+msgid "Title"
+msgstr ""
+
+#: includes/lib/lib-article.php:8
+msgid "Title of Block"
+msgstr ""
+
+#: includes/lib/lib-article.php:11
+msgid "Title URL"
+msgstr ""
+
+#: includes/lib/lib-article.php:12
+msgid "URL for Title of Block. Leave blank to use default"
+msgstr ""
+
+#: includes/lib/lib-article.php:16 includes/setup/setup-widgets.php:169
+#: includes/setup/setup-widgets.php:232 includes/setup/setup-widgets.php:275
+#: includes/setup/setup-widgets.php:313 includes/setup/setup-widgets.php:367
+#: includes/setup/setup-widgets.php:400
+msgid "Title FontAwesome Icon Code"
+msgstr ""
+
+#: includes/lib/lib-article.php:18 includes/setup/setup-menus.php:31
+#: includes/setup/setup-shortcodes.php:126
+#: includes/setup/setup-shortcodes.php:187 includes/setup/setup-widgets.php:171
+#: includes/setup/setup-widgets.php:234 includes/setup/setup-widgets.php:277
+#: includes/setup/setup-widgets.php:315 includes/setup/setup-widgets.php:369
+#: includes/setup/setup-widgets.php:402
+#, php-format
+msgid ""
+"Example: fa-home. <a href=\"%s\" target=\"_blank\">Check Full List of Icon "
+"Codes Here</a>"
+msgstr ""
+
+#: includes/lib/lib-article.php:28 includes/setup/setup-shortcodes.php:180
+msgid "Title Background Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:29
+msgid "Leave blank to use transparent"
+msgstr ""
+
+#: includes/lib/lib-article.php:33
+msgid "Title Text Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:34
+msgid "Leave blank to use default color"
+msgstr ""
+
+#: includes/lib/lib-article.php:38
+msgid "Title Border Bottom Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:39
+msgid "Leave blank to to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:43 includes/setup/setup-widgets.php:412
+msgid "Connect as Tabs"
+msgstr ""
+
+#: includes/lib/lib-article.php:44 includes/setup/setup-widgets.php:413
+msgid ""
+"All consecutive blocks which were enabled this option will be grouped into a "
+"tab"
+msgstr ""
+
+#: includes/lib/lib-article.php:49 includes/setup/setup-widgets.php:418
+msgid "Count"
+msgstr ""
+
+#: includes/lib/lib-article.php:50
+msgid "Number of posts will be loaded"
+msgstr ""
+
+#: includes/lib/lib-article.php:55
+msgid "Content Orderby"
+msgstr ""
+
+#: includes/lib/lib-article.php:58
+msgid "Latest"
+msgstr ""
+
+#: includes/lib/lib-article.php:59
+msgid "Random"
+msgstr ""
+
+#: includes/lib/lib-article.php:60
+msgid "Most Commented"
+msgstr ""
+
+#: includes/lib/lib-article.php:61
+msgid "Popular (Most Viewed)"
+msgstr ""
+
+#: includes/lib/lib-article.php:62
+msgid "Latest Reviews"
+msgstr ""
+
+#: includes/lib/lib-article.php:63
+msgid "Random Reviews"
+msgstr ""
+
+#: includes/lib/lib-article.php:64
+msgid "Popular (Highest) Reviews"
+msgstr ""
+
+#: includes/lib/lib-article.php:69
+msgid "Show View All"
+msgstr ""
+
+#: includes/lib/lib-article.php:70
+msgid "Show View All button. Uncheck to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:75
+msgid "Item Title"
+msgstr ""
+
+#: includes/lib/lib-article.php:78
+msgid "In Thumbnail"
+msgstr ""
+
+#: includes/lib/lib-article.php:79
+msgid "Out of Thumbnail"
+msgstr ""
+
+#: includes/lib/lib-article.php:80
+msgid "Not Display"
+msgstr ""
+
+#: includes/lib/lib-article.php:85
+msgid "Load from Categories"
+msgstr ""
+
+#: includes/lib/lib-article.php:86
+msgid ""
+"The categories that will be loaded posts from. Leave blank to load from all"
+msgstr ""
+
+#: includes/lib/lib-article.php:90
+msgid "Category Scenario"
+msgstr ""
+
+#: includes/lib/lib-article.php:91
+msgid "If you choose many categories to load, what relation between them?"
+msgstr ""
+
+#: includes/lib/lib-article.php:96
+msgid "Combination (posts has one OR more above categories)"
+msgstr ""
+
+#: includes/lib/lib-article.php:97
+msgid "Intersection (posts has ALL above categories)"
+msgstr ""
+
+#: includes/lib/lib-article.php:101
+msgid "Load from Authors"
+msgstr ""
+
+#: includes/lib/lib-article.php:102
+msgid ""
+"The authors that will be loaded posts from. Leave blank to load from all"
+msgstr ""
+
+#: includes/lib/lib-article.php:106 includes/setup/setup-widgets.php:423
+msgid "Exclude Authors"
+msgstr ""
+
+#: includes/lib/lib-article.php:107
+msgid ""
+"The authors that will not be loaded posts from. Leave blank to load from all"
+msgstr ""
+
+#: includes/lib/lib-article.php:111
+msgid "Load from Tags"
+msgstr ""
+
+#: includes/lib/lib-article.php:112
+msgid "The tags that will be loaded posts from. Leave blank to load from all"
+msgstr ""
+
+#: includes/lib/lib-article.php:116
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: includes/lib/lib-article.php:117
+msgid "Do not move sticky posts to the start of the set"
+msgstr ""
+
+#: includes/lib/lib-article.php:122
+msgid "Exclude Loaded Posts"
+msgstr ""
+
+#: includes/lib/lib-article.php:123
+msgid "Do not get the loaded posts from previous blocks"
+msgstr ""
+
+#: includes/lib/lib-article.php:128
+msgid "Show Comment"
+msgstr ""
+
+#: includes/lib/lib-article.php:129
+msgid "Show comment number. Uncheck to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:134
+msgid "Show Read More"
+msgstr ""
+
+#: includes/lib/lib-article.php:135
+msgid "Show readmore link. Uncheck to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:140
+msgid "Show Author"
+msgstr ""
+
+#: includes/lib/lib-article.php:141
+msgid "Show / hide author name in item detail"
+msgstr ""
+
+#: includes/lib/lib-article.php:145 includes/setup/setup-customizer.php:775
+msgid "Not show"
+msgstr ""
+
+#: includes/lib/lib-article.php:146 includes/setup/setup-customizer.php:776
+msgid "Show name only"
+msgstr ""
+
+#: includes/lib/lib-article.php:147 includes/setup/setup-customizer.php:777
+msgid "Show name with icon"
+msgstr ""
+
+#: includes/lib/lib-article.php:148 includes/setup/setup-customizer.php:778
+msgid "Show name with avatar"
+msgstr ""
+
+#: includes/lib/lib-article.php:152
+msgid "Show Date"
+msgstr ""
+
+#: includes/lib/lib-article.php:153
+msgid ""
+"Show / hide date / time in item detail. The format will follow the site date "
+"time format"
+msgstr ""
+
+#: includes/lib/lib-article.php:157 includes/setup/setup-customizer.php:787
+msgid "Not Show"
+msgstr ""
+
+#: includes/lib/lib-article.php:158 includes/setup/setup-customizer.php:788
+msgid "Date and Time"
+msgstr ""
+
+#: includes/lib/lib-article.php:159 includes/setup/setup-customizer.php:789
+msgid "Only Date"
+msgstr ""
+
+#: includes/lib/lib-article.php:160 includes/setup/setup-customizer.php:790
+msgid "Only Time"
+msgstr ""
+
+#: includes/lib/lib-article.php:161 includes/setup/setup-customizer.php:791
+msgid "Short Date Time"
+msgstr ""
+
+#: includes/lib/lib-article.php:162 includes/setup/setup-customizer.php:792
+msgid "Pretty Date Time"
+msgstr ""
+
+#: includes/lib/lib-article.php:166 includes/setup/setup-customizer.php:796
+msgid "Meta Item Order"
+msgstr ""
+
+#: includes/lib/lib-article.php:167 includes/setup/setup-customizer.php:797
+msgid "Pick order for meta items: comment, date, author"
+msgstr ""
+
+#: includes/lib/lib-article.php:171 includes/setup/setup-customizer.php:801
+msgid "Comment - Date - Author"
+msgstr ""
+
+#: includes/lib/lib-article.php:172 includes/setup/setup-customizer.php:802
+msgid "Comment - Author - Date"
+msgstr ""
+
+#: includes/lib/lib-article.php:173 includes/setup/setup-customizer.php:803
+msgid "Author - Comment - Date"
+msgstr ""
+
+#: includes/lib/lib-article.php:174 includes/setup/setup-customizer.php:804
+msgid "Author - Date - Comment"
+msgstr ""
+
+#: includes/lib/lib-article.php:175 includes/setup/setup-customizer.php:805
+msgid "Date - Author - Comment"
+msgstr ""
+
+#: includes/lib/lib-article.php:176 includes/setup/setup-customizer.php:806
+msgid "Date - Comment - Author"
+msgstr ""
+
+#: includes/lib/lib-article.php:181
+msgid "Show Format Icon"
+msgstr ""
+
+#: includes/lib/lib-article.php:182
+msgid "Show format icon when mouse hover an item of box"
+msgstr ""
+
+#: includes/lib/lib-article.php:187
+msgid "Show Review Score"
+msgstr ""
+
+#: includes/lib/lib-article.php:188
+msgid "Show review score if have"
+msgstr ""
+
+#: includes/lib/lib-article.php:193
+msgid "Number Categories"
+msgstr ""
+
+#: includes/lib/lib-article.php:194
+msgid "Number categories name will be displayed in each item. Set to 0 to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:200
+msgid "Snippet Length"
+msgstr ""
+
+#: includes/lib/lib-article.php:201
+msgid "Snippet / excerpt length. Input 0 to hide"
+msgstr ""
+
+#: includes/lib/lib-article.php:207
+msgid "Thumbnail Height"
+msgstr ""
+
+#: includes/lib/lib-article.php:208
+msgid ""
+"Thumbnail image height. Set to 0 and the box will show image as natural "
+"height without cropping"
+msgstr ""
+
+#: includes/lib/lib-article.php:214
+msgid "Pagination"
+msgstr ""
+
+#: includes/lib/lib-article.php:217
+msgid "None"
+msgstr ""
+
+#: includes/lib/lib-article.php:218
+msgid "Number"
+msgstr ""
+
+#: includes/lib/lib-article.php:219
+msgid "Loadmore"
+msgstr ""
+
+#: includes/lib/lib-article.php:220
+msgid "Next / Previous"
+msgstr ""
+
+#: includes/lib/lib-article.php:226 includes/setup/setup-customizer.php:112
+msgid "Main Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:227
+msgid "Select the main color of box"
+msgstr ""
+
+#: includes/lib/lib-article.php:232
+msgid "Thumbnail Background Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:233
+msgid "Thumbnail background color"
+msgstr ""
+
+#: includes/lib/lib-article.php:238
+msgid "Show Rainbow Thumbnail Background Color"
+msgstr ""
+
+#: includes/lib/lib-article.php:239
+msgid ""
+"Regardless the Thumbnail Background Color option, just using random colors "
+"instead"
+msgstr ""
+
+#: includes/lib/lib-article.php:253
+msgid "Show Navigate Buttons"
+msgstr ""
+
+#: includes/lib/lib-article.php:254
+msgid "The arrow buttons which allow user navigate slides"
+msgstr ""
+
+#: includes/lib/lib-article.php:259
+msgid "Show Dot Buttons"
+msgstr ""
+
+#: includes/lib/lib-article.php:260
+msgid "The dot buttons which allow user navigate slides"
+msgstr ""
+
+#: includes/lib/lib-article.php:265
+msgid "Speed"
+msgstr ""
+
+#: includes/lib/lib-article.php:266
+msgid "The animate speed in miliseconds"
+msgstr ""
+
+#: includes/lib/lib-article.php:277
+msgid ""
+"Thumbnail Image Height. If the image not fit in thumbnail window, it will be "
+"cropped"
+msgstr ""
+
+#: includes/lib/lib-article.php:282
+msgid "Number Column"
+msgstr ""
+
+#: includes/lib/lib-article.php:283
+msgid "Number column of carousel"
+msgstr ""
+
+#: includes/lib/lib-article.php:321 includes/lib/lib-article.php:330
+msgid "No Spacing"
+msgstr ""
+
+#: includes/lib/lib-article.php:322 includes/lib/lib-article.php:331
+msgid "Disable Spacing Between Items"
+msgstr ""
+
+#: includes/lib/lib-article.php:356
+msgid "Show Index"
+msgstr ""
+
+#: includes/lib/lib-article.php:357
+msgid "Show index number before each item"
+msgstr ""
+
+#: includes/lib/lib-article.php:834
+msgid "Read More"
+msgstr ""
+
+#: includes/lib/lib-article.php:1388
+msgid "Not found any post"
+msgstr ""
+
+#: includes/lib/lib-article.php:1566 includes/lib/lib-article.php:1579
+msgid "VIEW ALL"
+msgstr ""
+
+#: includes/lib/lib-common.php:579
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: includes/lib/lib-common.php:580
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: includes/lib/lib-common.php:588 includes/setup/setup-basic.php:169
+#, php-format
+msgid "<span class=\"value\">%1$s</span> / %2$s POSTS"
+msgstr ""
+
+#: includes/lib/lib-next-prev.php:8
+msgid "Newer Post"
+msgstr ""
+
+#: includes/lib/lib-next-prev.php:15
+msgid "Older Post"
+msgstr ""
+
+#: includes/lib/lib-next-prev.php:30
+msgid "&larr; Previous Media"
+msgstr ""
+
+#: includes/lib/lib-next-prev.php:34
+msgid "Next Media &rarr;"
+msgstr ""
+
+#: includes/lib/lib-related.php:102
+msgid "Click to read"
+msgstr ""
+
+#: includes/lib/lib-related.php:121
+msgid "Not found any posts"
+msgstr ""
+
+#: includes/setup/setup-basic.php:163
+msgid "Not Found Any Posts"
+msgstr ""
+
+#: includes/setup/setup-basic.php:164 includes/setup/setup-shortcodes.php:234
+msgid "Tab"
+msgstr ""
+
+#: includes/setup/setup-basic.php:165
+msgid "Copy All Code"
+msgstr ""
+
+#: includes/setup/setup-basic.php:166
+msgid "Select All Code"
+msgstr ""
+
+#: includes/setup/setup-basic.php:167
+msgid "All codes were copied to your clipboard"
+msgstr ""
+
+#: includes/setup/setup-basic.php:168
+msgid ""
+"Can not copy the codes / texts, please press [CTRL]+[C] (or CMD+C with Mac) "
+"to copy"
+msgstr ""
+
+#: includes/setup/setup-basic.php:170
+msgid "LOAD MORE"
+msgstr ""
+
+#: includes/setup/setup-basic.php:171
+msgid "OLDER"
+msgstr ""
+
+#: includes/setup/setup-basic.php:172
+msgid "NEWER"
+msgstr ""
+
+#: includes/setup/setup-basic.php:173
+#: includes/setup/setup-post-meta-box.php:118
+msgid "Hover and click above bar to rate"
+msgstr ""
+
+#: includes/setup/setup-basic.php:174
+#: includes/setup/setup-post-meta-box.php:119
+msgid "Hover and click above stars to rate"
+msgstr ""
+
+#: includes/setup/setup-basic.php:175
+#: includes/setup/setup-post-meta-box.php:120
+#, php-format
+msgid "You rated %s"
+msgstr ""
+
+#: includes/setup/setup-basic.php:176
+#: includes/setup/setup-post-meta-box.php:121
+#, php-format
+msgid "You will rate %s"
+msgstr ""
+
+#: includes/setup/setup-basic.php:177
+#: includes/setup/setup-post-meta-box.php:122
+msgid "Submitting ..."
+msgstr ""
+
+#: includes/setup/setup-basic.php:178
+#: includes/setup/setup-post-meta-box.php:123
+msgid "Your browser not support user rating"
+msgstr ""
+
+#: includes/setup/setup-basic.php:179
+#: includes/setup/setup-post-meta-box.php:124
+msgid "Server not response your rating"
+msgstr ""
+
+#: includes/setup/setup-basic.php:180
+#: includes/setup/setup-post-meta-box.php:125
+msgid "Server not accept your rating"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:5
+msgid "Archive Page Design Style"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:9
+msgid "Blogging"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:10
+msgid "One Column"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:11
+msgid "Two Columns"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:12
+msgid "Three Columns"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:13
+msgid "List"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:18
+msgid "Archive Page Main Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:43
+msgid "General Design"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:47
+msgid "Box Width"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:48
+msgid "Site box width in pixels"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:57
+msgid "Main Column Width"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:58
+msgid "Main content column width in PERCENT"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:67
+msgid "Sidebar Width"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:68
+msgid "Sidebar width in PERCENT"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:77
+msgid "Default Post Thumbnail"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:78
+msgid ""
+"The image src that you want to use for non-thumbnail posts. Leave blank to "
+"use random images from internet."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:83
+msgid "Thumbnail Rainbow Background Color Set"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:84
+msgid ""
+"The array of colors which will be use to random for rainbow thumbnail "
+"background of article widgets"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:89
+msgid "Disable Scroll Up"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:90
+msgid "Disable Scroll Up / Jump Top button"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:95
+#: includes/setup/setup-shortcodes.php:337
+msgid "Disable Responsive"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:96
+msgid "Disable responsive style"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:101
+msgid "View Count Meta Key Name"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:102
+msgid ""
+"Use this to input your own meta key name which use are using to record views "
+"for your site"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:108
+msgid "Colors / Fonts / Backgrounds"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:118
+msgid "Site Text Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:124
+msgid "Site Background Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:130
+msgid "Wrapper Box Background Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:136
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:142
+msgid "Header Text Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:148
+msgid "Top Menu Text Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:154
+msgid "Top Menu Text Color When Hover"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:160
+msgid "Top Menu Font"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:166
+msgid "Main Menu Text Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:172
+msgid "Main Menu Text Color When Hover"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:178
+msgid "Main Menu Background Color When Hover"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:184
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:190
+msgid "Main Menu Background Color of Current Item"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:196
+msgid "Main Menu Text Color of Current Item"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:202
+msgid "Main Menu Font"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:208
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:214
+msgid "Sub Menu Text Hover Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:220
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:226
+msgid "Site Background Image"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:232
+msgid "Site Background Image Floating Type"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:237
+msgid "Fixed"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:238
+msgid "Scroll"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:242
+msgid "Site Font"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:248
+#: includes/setup/setup-customizer.php:254
+msgid "Post / Article Title Font"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:260
+msgid "Post / Article Body Font"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:266
+msgid "Article Widget Title Font"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:272
+msgid "Font Family for Article Widget Item Title"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:278
+msgid "Sidebar Widget Font"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:286
+msgid "Header"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:290
+#: includes/widgets/widgets-branding.php:10
+msgid "Site Logo"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:294
+msgid "Header Layout"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:304
+msgid "Display Full Width Header"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:305
+msgid "Display header full width as screen width"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:310
+msgid "Header Desktop Ads"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:315
+msgid "Header Mobile Ads"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:320
+msgid "Hide Header Social Icons"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:321
+#: includes/setup/setup-customizer.php:327
+msgid "Hide Social Icons from Header Bar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:326
+msgid "Hide Search Icon"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:334
+msgid "Social Links"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:336
+msgid "Social Links for Header and Footer"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:343
+msgid "Sidebar Manager"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:347
+msgid "General Sidebar Settings"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:350
+msgid "Sticky Sidebar Delay"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:351
+msgid ""
+"If you set to ZERO, all sticky sidebars will sticky instantly without "
+"animation"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:362
+msgid "Home / Front Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:365
+msgid "Home Top Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:366
+msgid "The sidebar at very top of home page."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:370
+#: includes/setup/setup-customizer.php:379
+#: includes/setup/setup-customizer.php:388
+#: includes/setup/setup-customizer.php:397
+#: includes/setup/setup-customizer.php:438
+#: includes/setup/setup-customizer.php:447
+#: includes/setup/setup-customizer.php:462
+#: includes/setup/setup-customizer.php:471
+#: includes/setup/setup-customizer.php:480
+#: includes/setup/setup-customizer.php:489
+#: includes/setup/setup-customizer.php:527
+#: includes/setup/setup-customizer.php:536
+#: includes/setup/setup-customizer.php:552
+#: includes/setup/setup-customizer.php:561
+#: includes/setup/setup-customizer.php:570
+#: includes/setup/setup-customizer.php:579
+#: includes/setup/setup-customizer.php:617
+#: includes/setup/setup-customizer.php:626
+#: includes/setup/setup-customizer.php:641
+#: includes/setup/setup-customizer.php:650
+#: includes/setup/setup-customizer.php:659
+#: includes/setup/setup-customizer.php:668
+#: includes/setup/setup-customizer.php:706
+#: includes/setup/setup-customizer.php:715
+#: includes/setup/setup-customizer.php:1115
+#: includes/setup/setup-customizer.php:1124
+#: includes/setup/setup-customizer.php:1133
+#: includes/setup/setup-customizer.php:1142
+#: includes/setup/setup-customizer.php:1180
+#: includes/setup/setup-customizer.php:1189
+#: includes/setup/setup-customizer.php:1204
+#: includes/setup/setup-customizer.php:1213
+#: includes/setup/setup-customizer.php:1222
+#: includes/setup/setup-customizer.php:1231
+#: includes/setup/setup-customizer.php:1269
+#: includes/setup/setup-customizer.php:1278
+#: includes/setup/setup-customizer.php:1293
+#: includes/setup/setup-customizer.php:1302
+#: includes/setup/setup-customizer.php:1311
+#: includes/setup/setup-customizer.php:1320
+#: includes/setup/setup-customizer.php:1358
+#: includes/setup/setup-customizer.php:1367
+msgid "None / Disable"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:374
+msgid "Home Header Wide Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:375
+msgid "Select Header Wide Sidebar for Home."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:383
+msgid "Home Before Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:384
+#: includes/setup/setup-customizer.php:476
+#: includes/setup/setup-customizer.php:566
+#: includes/setup/setup-customizer.php:655
+#: includes/setup/setup-customizer.php:1129
+#: includes/setup/setup-customizer.php:1218
+#: includes/setup/setup-customizer.php:1307
+msgid "The sidebar before content area."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:392
+msgid "Home After Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:393
+#: includes/setup/setup-customizer.php:485
+#: includes/setup/setup-customizer.php:575
+#: includes/setup/setup-customizer.php:664
+#: includes/setup/setup-customizer.php:1138
+#: includes/setup/setup-customizer.php:1227
+#: includes/setup/setup-customizer.php:1316
+msgid "The sidebar after content area."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:401
+msgid "Home Main Sidebar Layout"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:402
+msgid "Choose Main Sidebar Layout for Home Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:406
+#: includes/setup/setup-customizer.php:498
+#: includes/setup/setup-customizer.php:588
+#: includes/setup/setup-customizer.php:677
+#: includes/setup/setup-customizer.php:1151
+#: includes/setup/setup-customizer.php:1240
+#: includes/setup/setup-customizer.php:1329
+#: includes/setup/setup-post-meta-box.php:24
+msgid "Full Width"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:407
+#: includes/setup/setup-customizer.php:499
+#: includes/setup/setup-customizer.php:589
+#: includes/setup/setup-customizer.php:678
+#: includes/setup/setup-customizer.php:1152
+#: includes/setup/setup-customizer.php:1241
+#: includes/setup/setup-customizer.php:1330
+#: includes/setup/setup-post-meta-box.php:25
+msgid "Right Side"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:408
+#: includes/setup/setup-customizer.php:500
+#: includes/setup/setup-customizer.php:590
+#: includes/setup/setup-customizer.php:679
+#: includes/setup/setup-customizer.php:1153
+#: includes/setup/setup-customizer.php:1242
+#: includes/setup/setup-customizer.php:1331
+#: includes/setup/setup-post-meta-box.php:26
+msgid "Left Side"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:412
+msgid "Home Sticky Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:413
+msgid "Check This to Enable Sticky Sidebar for Home"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:424
+msgid "Home Main Sidebar Name"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:425
+msgid "Select Main Sidebar for Home."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:433
+msgid "Home Footer Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:434
+msgid "Select Footer Wide Sidebar for Home."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:442
+msgid "Home Bottom Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:443
+msgid "The sidebar at very bottom of home page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:454
+msgid "Article / Post Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:457
+msgid "Article / Post Top Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:458
+msgid "The sidebar at very top of article / post"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:466
+msgid "Article / Post Header Wide Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:467
+msgid "Select Header Wide Sidebar for Articles / Posts."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:475
+msgid "Article / Post Before Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:484
+msgid "Article / Post After Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:493
+msgid "Article / Post Main Sidebar Layout"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:494
+msgid "Choose Main Sidebar Layout for Article / Post"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:504
+msgid "Article / Post Sticky Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:505
+msgid "Check This to Enable Sticky Sidebar for Article / Post"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:513
+msgid "Article / Post Main Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:514
+msgid "Select Main Sidebar for Articles / Posts."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:522
+msgid "Article / Post Footer Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:523
+msgid "Select Footer Wide Sidebar for Articles / Posts."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:531
+msgid "Article / Post Bottom Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:532
+msgid "The sidebar at very bottom of Articles / Posts"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:544
+msgid "Static Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:547
+msgid "Static Page Top Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:548
+msgid "The sidebar at very top of static page."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:556
+msgid "Static Page Header Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:557
+msgid "Select Header Wide Sidebar for Static Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:565
+msgid "Static Page Before Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:574
+msgid "Static Page After Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:583
+msgid "Static Page Main Sidebar Layout"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:584
+msgid "Choose Main Sidebar Layout for Static Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:594
+msgid "Static Page Sticky Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:595
+msgid "Check This to Enable Sticky Sidebar for Static Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:603
+msgid "Static Page Main Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:604
+msgid "Select Main Sidebar for Static Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:612
+msgid "Static Page Footer Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:613
+msgid "Select Footer Wide Sidebar for Static Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:621
+msgid "Static Page Bottom Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:622
+msgid "The sidebar at very bottom of Static Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:633
+msgid "Archive Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:636
+msgid "Archive Top Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:637
+msgid "The sidebar at very top of archive page."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:645
+msgid "Archive Page Header Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:646
+msgid "Select Header Wide Sidebar for Archive Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:654
+msgid "Archive Before Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:663
+msgid "Archive After Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:672
+msgid "Archive Page Main Sidebar Layout"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:673
+msgid "Choose Main Sidebar Layout for Archive Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:683
+msgid "Archive Page Sticky Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:684
+msgid "Check This to Enable Sticky Sidebar for Archive Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:692
+msgid "Archive Page Main Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:693
+msgid "Select Main Sidebar for Archive Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:701
+msgid "Archive Page Footer Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:702
+msgid "Select Footer Wide Sidebar for Archive Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:710
+msgid "Archive Bottom Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:711
+msgid "The sidebar at very bottom of archive page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:724
+msgid "Post Content"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:728
+msgid "Date Format"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:730
+msgid ""
+"You can read about <a target=\"_blank\" href=\"https://github.com/phstc/"
+"jquery-dateFormat#date-and-time-patterns\">Date - Time Pattern</a> for more "
+"information"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:741
+msgid "Feature Image Position"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:742
+msgid "Choose position for feature image or disable it"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:746
+#: includes/setup/setup-customizer.php:837
+#: includes/setup/setup-customizer.php:851
+#: includes/setup/setup-customizer.php:865
+#: includes/setup/setup-customizer.php:891
+msgid "Disable"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:747
+msgid "Above Post Title"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:748
+msgid "Under Post Title"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:752
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:753
+msgid "Check this if you don't want show breadcrumb"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:758
+msgid "Enable Top Share Buttons"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:759
+msgid "Show share buttons underneath the title"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:764
+msgid "Disable SubTitle"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:765
+msgid "Disable subtitle in articles and static pages"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:770
+msgid "Show Author Meta"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:771
+msgid "Show / hide author name under post title"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:782
+msgid "Show Date Meta"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:783
+msgid "Show / hide date / time under post title"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:810
+msgid "Post Ads Code Top"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:811
+msgid "Use this code to show ads on top left of post content."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:815
+msgid "Post Ads Code Bottom"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:816
+msgid "Use this code to show ads on bottom left of post content."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:820
+msgid "Hide Post Excerpt"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:821
+msgid ""
+"Hide post excerpt (description) of articles even you inputed when editing "
+"the articles"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:826
+msgid "Disable Auto Excerpt"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:827
+msgid "Hide excerpt if author did not input, instead of showing auto snippet"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:832
+msgid "Number Breaklinks Top"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:833
+msgid "Maxiumn Number break-links will show in articles above content"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:846
+msgid "Number Breaklinks Read More"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:847
+msgid "Maxiumn Number break-links will show in articles after readmore break"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:860
+msgid "Number Breaklinks Bottom"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:861
+msgid "Maxiumn Number break-links will show in articles after content"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:874
+#: includes/setup/setup-customizer.php:882
+msgid "Categories & Tags"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:875
+msgid "Show / hide category and tag list in post footer"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:879
+msgid "Hide all"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:880
+msgid "Only Categories"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:881
+msgid "Only Tags"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:886
+msgid "Number Related Posts"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:887
+msgid "Number related posts will show in Recommend Box"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:900
+msgid "Disable Next / Previous"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:901
+msgid "Disable Next / Previous Buttons in Article Footer"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:906
+msgid "Disable Bottom Share Buttons"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:907
+msgid "Disable share buttons at the bottom of post"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:912
+msgid "Custom Sharing Button Code"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:913
+msgid ""
+"Use this custom sharing button code instead of default. Leave blank to use "
+"default sharing buttons."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:917
+msgid "Disable Author Box"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:918
+msgid "Check this if you don't want show author box"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:925
+msgid "Comment Systems"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:929
+msgid "Primary Comment System"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:930
+msgid "Set primary for a comment system to priority showing that system first"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:940
+msgid "Disable WordPress Comment"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:941
+msgid "Now show WordPress comment system on all pages"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:946
+msgid "Disable Facebook Comment"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:947
+msgid "Now show Facebook comment system on all pages"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:952
+msgid "Disable Disqus Comment"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:953
+msgid "Now show Disqus comment system on all pages"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:959
+msgid "Facebook APP ID for Comment System"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:960
+msgid "You must use your own APP ID to moderate comments."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:965
+msgid "Disqus Short Name"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:966
+msgid "Use must use your own Disqus Short Name to moderate comments."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:970
+msgid "Disable WordPress Comment URL"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:971
+msgid "Not show the comment URL in comment field"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:976
+msgid "Disable WordPress Comment Media"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:977
+msgid "Not auto convert image URL to real image HTML tag"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:984
+msgid "Archive Page Designs"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:986
+msgid "Configure Archive Page Designs (Index, Category, Search, Author, ...)"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:990
+msgid "Footer"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:992
+msgid "Configure settings for site footer"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:995
+msgid "Footer Copyright Line 1"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:999
+msgid "Footer Copyright Line 2"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1005
+msgid "Custom Code"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1007
+msgid "Add your custom HTML / JAVASCRIPT / CSS code"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1010
+msgid "HTML in Head"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1011
+msgid "Insert your HTML code before \"head\" tag"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1015
+msgid "JavaScript in Head"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1016
+msgid ""
+"Insert your JavaScript code before 'head' tag. Don't add 'javascript' tag in "
+"code, the tag will be generate automatically"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1020
+msgid "Style CSS in Head"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1021
+msgid ""
+"Insert your CSS code before 'head' tag. Don't add 'style' tag in code, the "
+"tag will be generate automatically"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1025
+msgid "HTML in Footer"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1026
+msgid "Insert your HTML code before close of \"body\" tag"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1030
+msgid "JavaScript code in Footer"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1031
+msgid ""
+"Insert your JavaScript code before close of 'body' tag. Don't add "
+"'javascript' tag in code, the tag will be generate automatically"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1035
+msgid "Style CSS code in Footer"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1036
+msgid ""
+"Insert your CSS code before close of 'body' tag. Don't add 'style' tag in "
+"code, the tag will be generate automatically"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1042
+msgid "Site Performance"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1044
+msgid "Increase your site performance"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1047
+msgid "Serve Scaled Images"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1048
+msgid ""
+"Use smaller image size for faster speed, but a bit blur. You will need to "
+"use <a href=\"https://wordpress.org/plugins/regenerate-thumbnails/\" target="
+"\"_blank\">Regenerate Thumbnails Plugin</a> to generate more image versions, "
+"may be, your hosting will be out of resource."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1058
+msgid "Remove Query Strings From Static Resources"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1059
+msgid ""
+"Remove version queries in JavaScript and CSS resource, but when updating "
+"theme, the update will come to readers late a bit because their browser "
+"caches."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1064
+msgid "Minify CSS and JavaScript"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1065
+msgid "Use compressed version of CSS and JavaScript for loading faster."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1073
+msgid "Menus"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1077
+msgid "Menu Design"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1080
+msgid "Sticky Menu"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1081
+msgid "Choose Sticky Menu Mode"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1092
+msgid "Sticky Menu Logo"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1093
+msgid "Choose Image Logo to Show in Sticky Menu Mode. Max height 32px"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1107
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1110
+msgid "Shop Top Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1111
+msgid "The sidebar at very top of shop page."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1119
+msgid "Shop Header Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1120
+msgid "Select Header Wide Sidebar for Shop Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1128
+msgid "Shop Before Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1137
+msgid "Shop After Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1146
+msgid "Shop Main Sidebar Layout"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1147
+msgid "Choose Main Sidebar Layout for Shop Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1157
+msgid "Shop Sticky Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1158
+msgid "Check This to Enable Sticky Sidebar for Shop Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1166
+msgid "Shop Main Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1167
+msgid "Select Main Sidebar for Shop Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1175
+msgid "Shop Footer Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1176
+msgid "Select Footer Wide Sidebar for Shop Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1184
+msgid "Shop Bottom Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1185
+msgid "The sidebar at very bottom of shop page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1196
+msgid "Product Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1199
+msgid "Product Top Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1200
+msgid "The sidebar at very top of product page."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1208
+msgid "Product Header Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1209
+msgid "Select Header Wide Sidebar for Product Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1217
+msgid "Product Before Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1226
+msgid "Product After Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1235
+msgid "Product Main Sidebar Layout"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1236
+msgid "Choose Main Sidebar Layout for Product Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1246
+msgid "Product Sticky Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1247
+msgid "Check This to Enable Sticky Sidebar for Product Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1255
+msgid "Product Main Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1256
+msgid "Select Main Sidebar for Product Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1264
+msgid "Product Footer Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1265
+msgid "Select Footer Wide Sidebar for Product Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1273
+msgid "Product Bottom Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1274
+msgid "The sidebar at very bottom of product page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1285
+msgid "Archive Product Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1288
+msgid "Archive Product Top Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1289
+msgid "The sidebar at very top of archive product page."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1297
+msgid "Archive Product Header Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1298
+msgid "Select Header Wide Sidebar for Archive Product Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1306
+msgid "Archive Product Before Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1315
+msgid "Archive Product After Content Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1324
+msgid "Archive Product Main Sidebar Layout"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1325
+msgid "Choose Main Sidebar Layout for Archive Product Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1335
+msgid "Archive Product Sticky Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1336
+msgid "Check This to Enable Sticky Sidebar for Archive Product Page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1344
+msgid "Archive Product Main Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1345
+msgid "Select Main Sidebar for Archive Product Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1353
+msgid "Archive Product Footer Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1354
+msgid "Select Footer Wide Sidebar for Archive Product Pages."
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1362
+msgid "Archive Product Bottom Page Sidebar"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1363
+msgid "The sidebar at very bottom of archive product page"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1384
+#: includes/setup/setup-user-meta-box.php:11
+#, php-format
+msgid "Input %s Link"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:1401
+#: includes/setup/setup-customizer.php:1402
+msgid "Theme Options"
+msgstr ""
+
+#: includes/setup/setup-dashboard.php:9
+msgid "Mag One"
+msgstr ""
+
+#: includes/setup/setup-dashboard.php:32
+msgid "Flat One"
+msgstr ""
+
+#: includes/setup/setup-dashboard.php:55
+msgid "News One"
+msgstr ""
+
+#: includes/setup/setup-dashboard.php:78
+msgid "Sahi One"
+msgstr ""
+
+#: includes/setup/setup-dashboard.php:104
+#: includes/setup/setup-dashboard.php:105
+msgid "Demo Installation"
+msgstr ""
+
+#: includes/setup/setup-dashboard.php:113
+#: includes/setup/setup-dashboard.php:114
+msgid "Theme Activation"
+msgstr ""
+
+#: includes/setup/setup-dashboard.php:118
+msgid "After activating theme, you will get auto update feature!"
+msgstr ""
+
+#: includes/setup/setup-dashboard.php:121
+msgid "You activated the theme successful!"
+msgstr ""
+
+#: includes/setup/setup-dashboard.php:127
+#: includes/setup/setup-dashboard.php:128
+msgid "Social API Keys"
+msgstr ""
+
+#: includes/setup/setup-menus.php:3
+msgid "Top Menu"
+msgstr ""
+
+#: includes/setup/setup-menus.php:4
+msgid "Main Menu"
+msgstr ""
+
+#: includes/setup/setup-menus.php:10
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: includes/setup/setup-menus.php:16
+msgid "Show / Hide Menu for Users"
+msgstr ""
+
+#: includes/setup/setup-menus.php:20
+msgid "Show for All Users"
+msgstr ""
+
+#: includes/setup/setup-menus.php:21
+msgid "Show for Logged in Users only"
+msgstr ""
+
+#: includes/setup/setup-menus.php:22
+msgid "Show for Logged out Users only"
+msgstr ""
+
+#: includes/setup/setup-menus.php:26
+msgid "Menu Item Text Color"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:6
+msgid "Extra Content"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:9
+msgid "Sub Title"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:14
+msgid "Page Layout"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:15
+msgid "Select suitable page layout options for your page."
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:18
+msgid "Sidebar Layout"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:19
+msgid ""
+"You can select \"Full Width\" to manage sidebars by your columns in page "
+"builder"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:23
+#: includes/setup/setup-post-meta-box.php:35
+msgid "Default"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:30
+msgid "Sidebar Name"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:31
+msgid "Only affect if your sidebar position has a sidebar."
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:39
+msgid "Content Layout (Page Template)"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:40
+msgid "If you want to show page builder layout, select \"Content Only\""
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:44
+msgid "Post (Title and Content)"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:45
+msgid "Builder (Content Only)"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:51
+msgid "Extra Data for Feature Box"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:55
+msgid "Video / Audio Embedded Code"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:56
+msgid ""
+"Use this emebedded code as feature box instead of using feature image. If "
+"Youtube or Vimeo, only URL is also OK"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:60
+msgid "Caption for Feature Box"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:61
+msgid ""
+"This caption will be show on the bottom right conner of feature box "
+"(regardless image or video or audio)"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:76
+msgid "Review / Rating Box"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:77
+msgid "Input your rating review"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:113
+msgid "Have no any user vote"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:114
+#: includes/setup/setup-post-meta-box.php:146
+#, php-format
+msgid "%1$s user %2$s x %3$s"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:115
+msgid "vote"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:116
+msgid "votes"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:128
+msgid "Is product review?"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:129
+msgid "No"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:130
+msgid "Star"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:131
+msgid "Point"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:132
+msgid "Percent"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:133
+msgid "Add star criteria for this product"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:134
+msgid "Add point criteria for this product"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:135
+msgid "Add percent criteria for this product"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:136
+msgid "Criteria name"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:137
+msgid "Criteria value"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:138
+#, php-format
+msgid "%s star"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:139
+#: includes/setup/setup-post-meta-box.php:140
+#, php-format
+msgid "%s stars"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:141
+msgid "Add New Criteria"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:142
+msgid "Input Review Summary"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:143
+msgid "Input Review Conclusion"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:144
+msgid "Allow Visitor Review"
+msgstr ""
+
+#: includes/setup/setup-post-meta-box.php:160
+msgid "OVERALL SCORE"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:393
+#: includes/setup/setup-required-plugins.php:912
+#: includes/setup/setup-required-plugins.php:2618
+#: includes/setup/setup-required-plugins.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:394
+#: includes/setup/setup-required-plugins.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:395
+#: includes/setup/setup-required-plugins.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:1019
+#: includes/setup/setup-required-plugins.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:1206
+#: includes/setup/setup-required-plugins.php:3033
+msgid "and"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2473
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2567
+msgid "unknown"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2634
+msgid "Type"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3594
+#: includes/setup/setup-required-plugins.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3594
+#: includes/setup/setup-required-plugins.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/setup/setup-required-plugins.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:7
+msgid "Slider Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:13
+msgid "Sticky Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:19
+msgid "Complex Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:25
+msgid "One Column Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:31
+msgid "Two Columns Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:37
+msgid "Three Columns Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:43
+msgid "Carousel Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:49
+msgid "Blogging Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:55
+msgid "Simple One Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:61
+msgid "Ticker Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:67
+msgid "List Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:73
+msgid "Grid Article Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:86
+msgid "Select Sidebar"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:95
+msgid "Dropcap"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:100
+msgid "Button"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:105
+msgid "Button Link"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:110
+msgid "Button text"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:114
+msgid "Text Color"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:119
+msgid "Background Color"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:124
+msgid "Button Icon"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:136
+msgid "Button Icon Postion"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:140
+msgid "At start of button"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:141
+msgid "At end of button"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:145
+msgid "Button Size"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:149
+msgid "Smallest"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:150
+msgid "Small"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:151
+msgid "Normal"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:152
+msgid "Large"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:153
+msgid "Largest"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:157
+msgid "Button ID"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:160
+msgid "Open in New Window"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:167
+msgid "Message Box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:175
+msgid "Title Color"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:185
+msgid "Title Icon"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:197
+msgid "Content"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:201
+msgid "Content Color"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:206
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:211
+msgid "Message Box ID"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:216
+msgid "Tabs"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:221
+msgid "ID of the whole tab box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:224
+msgid "Tab Design Style"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:227
+msgid "Horizontal"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:228
+msgid "Verizontal"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:238
+msgid "Tab Title"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:241
+msgid "Tab Content"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:249
+msgid "Accordions"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:254
+msgid "ID of the whole accordion box"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:257
+msgid "Allow open multiple panels"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:264
+msgid "Accordion"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:268
+msgid "Accordion Title"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:271
+#: includes/setup/setup-shortcodes.php:289
+msgid "Accordion Content"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:279
+msgid "Lock Content"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:284
+msgid "Text Content"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:295
+msgid "Contact"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:300
+msgid "Target Email. Blank mean using Admin email"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:304
+msgid "Enable URL field"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:315
+msgid "Class"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:318
+msgid "Column width in percent (%)"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:323
+msgid "Inner Padding Left"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:324
+msgid "Add inner space from left of this column in pixels."
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:330
+msgid "Inner Padding Right"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:331
+msgid "Add inner space from right of this column in pixels."
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:338
+msgid "Do not go full in mobile, keep it as what it is"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:343
+msgid "Sticky Inside Content"
+msgstr ""
+
+#: includes/setup/setup-shortcodes.php:344
+msgid "Sticky inside content when mouse scrolling"
+msgstr ""
+
+#: includes/setup/setup-user-meta-box.php:24
+msgid "Author Social Links"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:14
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:16
+msgid "The section on right side. Usually use to add common widgets"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:30
+msgid "Top Page"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:31
+msgid "The section on very top of page. Above and before everything."
+msgstr ""
+
+#: includes/setup/setup-widgets.php:41
+msgid "Header Wide"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:42
+msgid "The section under the main menu. Usually use to add wide ads."
+msgstr ""
+
+#: includes/setup/setup-widgets.php:52
+msgid "Before Content"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:53
+msgid "The section above content area"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:63
+msgid "Under Post Content"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:64
+msgid "The section below content of article / post."
+msgstr ""
+
+#: includes/setup/setup-widgets.php:73
+msgid "After Content"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:74
+msgid "The section below content area."
+msgstr ""
+
+#: includes/setup/setup-widgets.php:83
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:84
+msgid "The section on right side. Usually use to add common widgets."
+msgstr ""
+
+#: includes/setup/setup-widgets.php:93
+msgid "Footer Wide"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:94
+msgid "The wide section before footer. Usually use to add wide ads."
+msgstr ""
+
+#: includes/setup/setup-widgets.php:104
+msgid "Bottom Page"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:105
+msgid "The section on very bottom of page. Below and under everything."
+msgstr ""
+
+#: includes/setup/setup-widgets.php:115
+msgid "Footer Column 1"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:116
+msgid "The first column of footer"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:125
+msgid "Footer Column 2"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:126
+msgid "The second column of footer"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:135
+msgid "Footer Column 3"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:136
+msgid "The third column of footer"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:164
+msgid "Facebook Fan Page"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:165
+msgid "Facebook Fan Page Box"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:181 includes/setup/setup-widgets.php:330
+msgid "Facebook Page URL"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:186
+msgid "Width in Pixels"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:193
+msgid "Height in Pixels"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:200
+msgid "Adapt to Plugin Container Width"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:205
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:210
+msgid "Use Small Header"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:215
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:220
+msgid "Show Page Posts"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:227
+msgid "Branding"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:228
+msgid "Show logo and more information about your site"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:244
+msgid "Logo Image"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:248
+msgid "Short About Bio"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:252
+msgid "Address"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:255
+msgid "Phone Number"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:258
+msgid "Contact Email"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:264
+msgid "Social Icons"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:265
+msgid "List of social icons"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:270
+msgid "Feedburner Form"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:271
+msgid "Feedburner Form for Newsletters"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:287
+msgid "Your Feedbuner URI"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:292
+msgid "Your Form Description"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:297
+msgid "Place Holder Text for Email Field"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:301
+msgid "Text of Submit Button"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:308
+msgid "Social Counter"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:309
+msgid "Social Counter with Links"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:325
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:335
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:340
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:345
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:350
+msgid "Behance Profile URL"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:355
+msgid "Youtube Channel URL"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:362
+msgid "Image Quote"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:363 includes/setup/setup-widgets.php:396
+msgid "Quote box with background"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:379
+msgid "Quote Content"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:384
+msgid "Quote Author Name"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:388
+msgid "Quote Background Image"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:395
+msgid "MagOne Recent Comments"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:429
+msgid "Article Box: Slider"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:430
+msgid "Show articles as slider"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:435
+msgid "Artticle Box: Sticky"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:436
+msgid "Show articles as sticky block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:441
+msgid "Article Box: Complex"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:442
+msgid "Show article as complex block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:447
+msgid "Article Box: One Column"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:448
+msgid "Show article as one column block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:453
+msgid "Article Box: Two Columns"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:454
+msgid "Show article as two columns block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:459
+msgid "Article Box: Three Columns"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:460
+msgid "Show article as three columns block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:465
+msgid "Article Box: Carousel"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:466
+msgid "Show article as carousel block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:471
+msgid "Article Box: Blogging"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:472
+msgid "Show article as blogging block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:477
+msgid "Article Box: Simple One Column"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:478
+msgid "Show article as simple one column block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:483
+msgid "Article Box: Ticker"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:484
+msgid "Show article as ticker block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:489
+msgid "Article Box: List"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:490
+msgid "Show article as list block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:495
+msgid "Article Box: Grid"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:496
+msgid "Show article as grid block"
+msgstr ""
+
+#: includes/setup/setup-widgets.php:505
+msgid "Public Linkedin Profile URL"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-contact.php:9
+msgid "Name:"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-contact.php:10
+msgid "Email:"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-contact.php:11
+msgid "Website:"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-contact.php:12
+msgid "Content:"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-contact.php:13
+msgid "Send Content"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-contact.php:14
+msgid "We received your contact. Thank you!"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-contact.php:15
+msgid "The email is requried"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-contact.php:16
+msgid "The content is requried"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-contact.php:17
+msgid "Your content is too short to submit"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-lock.php:10
+msgid "THIS CONTENT IS PREMIUM"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-lock.php:11
+msgid "Please share to unlock"
+msgstr ""
+
+#: includes/widgets/widgets-feedburner-form.php:8
+msgid "Blank URI"
+msgstr ""
+
+#: includes/widgets/widgets-feedburner-form.php:17
+msgid "Wrong URI"
+msgstr ""
+
+#: includes/widgets/widgets-image-quote.php:11
+msgid "Quote Widget Background"
+msgstr ""
+
+#: includes/widgets/widgets-recent-comments.php:51
+msgid "Not found any comments"
+msgstr ""
+
+#: includes/widgets/widgets-social-counter.php:19 singular.php:379
+msgid "Loading..."
+msgstr ""
+
+#: index.php:11
+#, php-format
+msgid "Search query: <strong>%s</strong>"
+msgstr ""
+
+#: index.php:13
+#, php-format
+msgid "Category: <strong>%s</strong>"
+msgstr ""
+
+#: index.php:15
+#, php-format
+msgid "Tag: <strong>%s</strong>"
+msgstr ""
+
+#: index.php:17
+#, php-format
+msgid "Author: <strong>%s</strong>"
+msgstr ""
+
+#: searchform.php:2 searchform.php:3
+msgid "Type something and Enter"
+msgstr ""
+
+#: singular.php:66
+msgid "Home"
+msgstr ""
+
+#: singular.php:371
+msgid "RECOMMENDED FOR YOU"
+msgstr ""
+
+#: woocommerce.php:10
+msgid "Shop"
+msgstr ""
